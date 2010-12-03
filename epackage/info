@@ -1,0 +1,25 @@
+Package: markdown-mode
+Section: languages
+License: GPL-2+
+Depends: emacs (>= 21)
+Status:
+Compat:
+Maintainer:
+Email: Jason Blevins <jrblevin@sdf.lonestar.org>
+Bugs:
+Vcs-Type: git
+Vcs-Url: git://jblevins.org/git/markdown-mode.git
+Vcs-Args:
+Vcs-Browser:
+Vcs-User:
+Vcs-Password:
+Homepage: http://jblevins.org/projects/markdown-mode
+Wiki: http://www.emacswiki.org/emacs/MarkdownMode
+Description: mode for editing *.md markdown markup files
+ markdown-mode is a major mode for GNU Emacs which provides syntax
+ highlighting and supporting commands for editing Markdown files. It
+ provides keybindings and commands for inserting Markdown elements and
+ to assist in calling Markdown to parse the source code or preview the
+ document in a browser. It also, optionally, provides syntax
+ highlighting for wiki links and embedded itex mathematical
+ expressions.
