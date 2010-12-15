@@ -15,7 +15,7 @@ Vcs-User:
 Vcs-Password:
 Homepage: http://jblevins.org/projects/markdown-mode
 Wiki: http://www.emacswiki.org/emacs/MarkdownMode
-Commentary:
+Commentary: markdown-mode.el
 Description: mode for editing *.md markdown markup files
  markdown-mode is a major mode for GNU Emacs which provides syntax
  highlighting and supporting commands for editing Markdown files. It
