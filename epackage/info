@@ -4,7 +4,7 @@ License: GPL-2+
 Depends: emacs (>= 21)
 Status:
 Compat:
-Maintainer:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
 Email: Jason Blevins <jrblevin@sdf.lonestar.org>
 Bugs:
 Vcs-Type: git
@@ -15,6 +15,7 @@ Vcs-User:
 Vcs-Password:
 Homepage: http://jblevins.org/projects/markdown-mode
 Wiki: http://www.emacswiki.org/emacs/MarkdownMode
+Commentary:
 Description: mode for editing *.md markdown markup files
  markdown-mode is a major mode for GNU Emacs which provides syntax
  highlighting and supporting commands for editing Markdown files. It
