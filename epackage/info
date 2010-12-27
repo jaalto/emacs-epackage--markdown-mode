@@ -5,7 +5,9 @@ Depends: emacs (>= 21)
 Status:
 Compat:
 Maintainer: Jari Aalto <jari.aalto@cante.net>
-Email: Jason Blevins <jrblevin@sdf.lonestar.org>
+Bugs:
+Upstream: Jason Blevins <jrblevin@sdf.lonestar.org>
+Upstream-Bugs:
 Bugs:
 Vcs-Type: git
 Vcs-Url: git://jblevins.org/git/markdown-mode.git
@@ -17,7 +19,7 @@ Homepage: http://jblevins.org/projects/markdown-mode
 Wiki: http://www.emacswiki.org/emacs/MarkdownMode
 Commentary: markdown-mode.el
 Description: mode for editing *.md markdown markup files
- markdown-mode is a major mode for GNU Emacs which provides syntax
+ Markdown mode is a major mode for GNU Emacs which provides syntax
  highlighting and supporting commands for editing Markdown files. It
  provides keybindings and commands for inserting Markdown elements and
  to assist in calling Markdown to parse the source code or preview the
