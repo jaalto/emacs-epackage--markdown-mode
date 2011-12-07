@@ -42,4 +42,4 @@
 (autoload 'markdown-show-version                "markdown-mode" "" t)
 (autoload 'markdown-mode                        "markdown-mode" "" t)
 
-(provide 'markdown-mode-autoloads)
+(provide 'markdown-mode-epkg-autoloads)

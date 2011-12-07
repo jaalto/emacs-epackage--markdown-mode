@@ -28,4 +28,4 @@
 (autoload 'markdown-show-version                "markdown-mode" "" t)
 (autoload 'markdown-mode                        "markdown-mode" "" t)
 
-(provide 'markdown-mode-install)
+(provide 'markdown-mode-epkg-install)
