@@ -1,3 +1,4 @@
+(provide 'markdown-mode-epkg-0loaddefs)
 
 ;;;### (autoloads (markdown-mode) "markdown-mode" "markdown-mode.el"
 ;;;;;;  (19705 23427))
