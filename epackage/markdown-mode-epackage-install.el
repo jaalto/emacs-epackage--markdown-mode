@@ -5,4 +5,4 @@
 ;; User can add more.
 (add-to-list 'auto-mode-alist '("\\.md$" . markdown-mode))
 (add-to-list 'auto-mode-alist '("\\.markdown$" . markdown-mode))
-(provide 'markdown-mode-epkg-install)
+(provide 'markdown-mode-epackage-install)
