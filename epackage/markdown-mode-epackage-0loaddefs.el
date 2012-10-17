@@ -1,4 +1,4 @@
-
+(provide 'markdown-mode-epackage-0loaddefs)
 ;;;### (autoloads (markdown-mode) "../markdown-mode" "../markdown-mode.el"
 ;;;;;;  (20185 25712))
 ;;; Generated autoloads from ../markdown-mode.el
